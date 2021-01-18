@@ -44,7 +44,7 @@ header#header .disabled
 header#header 
 {
    /* background: rgba(0,0,0,0.5) !important;    tell sara to make edit with photoshop*/ 
-    background: url('Asset/bg.jpg') no-repeat;
+    background: url('bg.jpg') no-repeat;
     background-size: cover;
     height: 75vh;
     position: relative;
